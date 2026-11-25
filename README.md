@@ -1,4 +1,4 @@
-## Hi there 👋
+
 # Olá, eu sou Marcio Antonio! 👋
 
 Estudante de **Análise e Desenvolvimento de Sistemas**, atualmente no **2º semestre**.
